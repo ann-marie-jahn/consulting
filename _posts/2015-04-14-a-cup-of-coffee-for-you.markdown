@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  A cup of coffee for you
+title:  7 ways to improve revenue and profits
 date:   2015-04-14 10:57:12
 images: images/@stock/blog-2.jpg
 excerpt:
-  Iste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel id quasi voluptatem eligendi rerum et quo ut. fuga qui ea voluptates sunt
+  Need to get your revenue on track, and increase your profitability? Look to your business data to reveal insights and answers.
 categories: Design Bussiness
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Make some sketches
+title:  How to find and evaluate opportunites
 date:   2015-04-14 10:58:12
 images:
   - images/@stock/blog-3.jpg
   - images/@stock/blog-2.jpg
 excerpt:
-  Iste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel id quasi voluptatem eligendi rerum et quo ut. fuga qui ea voluptates sunt
+  Seeking new opportunities, greener pastures, or to make a pivot? The ideas you need are about what people (customers, consumers, healthcare providers and patients) need now.
 categories: Logo Development
 ---
 
