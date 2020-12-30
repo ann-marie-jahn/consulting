@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  7 ways to succeed with digital transformation
-date:   2015-04-14 10:52:12
+date:   2020-11-12 10:52:12
 images: images/@stock/blog-1.jpg
 excerpt:
   Whether your organization is seeking to make a major digital transformation, or you are a small business contemplating selling online for the first time, a basic set of principles applies.
