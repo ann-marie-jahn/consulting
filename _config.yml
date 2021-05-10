@@ -1,17 +1,18 @@
 # Site settings
 title: T4S
-email: your-email@domain.com
+email: annmarie.jahn@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  T4S Consulting is a independent consulting firm that helps businesses: 
+    Develop and launch new products, both digital and hardgoods.
+    Increase revenue and improve profitability.
+    Discover, evaluate and pivot to powerful new opportunities
+    Achieve your business goals, even in tough economic times
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://time4success-consulting.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://time4success-consulting.com"
+twitter_username: annmjahn
+github_username:  ann-marie-jahn
 
 # Build settings
 markdown: kramdown
-
 paginate: 3
 paginate_path: "blog/page:num"
